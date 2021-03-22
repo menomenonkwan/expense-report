@@ -57,6 +57,7 @@ li {
 li h4 {
   margin: 0;
   text-transform: capitalize;
+  color: var(--secondary);
 }
 li p {
   margin: 8px 0 0;
